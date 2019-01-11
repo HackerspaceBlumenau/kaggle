@@ -4,4 +4,4 @@
 
 ### Competições
 
-- :checkered_flag: [Petfinder](https://www.kaggle.com/c/petfinder-adoption-prediction)
+- :smiley_cat: [Petfinder](https://www.kaggle.com/c/petfinder-adoption-prediction)
